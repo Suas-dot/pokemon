@@ -5,11 +5,9 @@ Una aplicación web interactiva construida con React + Vite + Tailwind CSS donde
 🕹️ ¿Cómo funciona?
 Cada ronda muestra la silueta de un Pokémon aleatorio.
 
-El usuario escribe su respuesta en un input.
+El usuario debe adivinarlo de una lista de pokemons en tiempo limitado.
 
-Al presionar "Adivinar", la app revela si acertó o no y muestra el Pokémon a color.
-
-Opción para pasar al siguiente desafío con un solo clic.
+Cuenta con 3 vidas.
 
 ✨ Características
 Pokémon aleatorios traídos desde la PokéAPI
@@ -18,13 +16,12 @@ Feedback visual según acierto o error
 
 Interfaz responsiva y moderna
 
-Lógica de comparación flexible (ignora mayúsculas y espacios)
-
 Componentes reutilizables
 
-(Opcional) Racha de aciertos / puntaje
+Racha de aciertos / puntaje
 
-🛠️ Tecnologías utilizadas
+🛠️ Tecnologías utilizadas:
+
 ⚛️ React (con Vite)
 
 🎨 Tailwind CSS
